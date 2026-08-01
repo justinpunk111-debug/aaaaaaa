@@ -249,7 +249,7 @@ setInterval(createHeart,500);
 // LOVE LETTER
 // ==========================================
 
-const message = `My Dearest Reesha ❤️
+const message = `My Dearest ❤️
 
 Happy Girlfriend's Day!
 
